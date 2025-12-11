@@ -1,4 +1,4 @@
-public class TestMidterm {
+public class TestMidterm2 {
     public static void main(String[] args) {
         
         Adapter one = new twelve(51060);
